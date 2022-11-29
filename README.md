@@ -1,8 +1,16 @@
 ## 👋 Thanks For Comming!
 와주셔서 감사합니다! 여기까지 오신 김에 제 프로필도 보고 가세요💫
-### Tech Stack
+### 🚀 Tech Stack
+#### Language
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### Backend & DB
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-### About My Github
+### 🐈‍⬛ About My Github
 <p align="left">
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walkers15&show_icons=true&hide=issues&line_height=24&include_all_commits=True" />
@@ -13,7 +21,7 @@
   <br/> 
 </p>
 
-### BOJ
+### ✔️ BOJ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qortmd7777)](https://solved.ac/qortmd7777)
 <!--
