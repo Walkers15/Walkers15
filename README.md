@@ -1,5 +1,7 @@
 ## 👋 Thanks For Comming!
 와주셔서 감사합니다! 여기까지 오신 김에 제 프로필도 보고 가세요💫
+### Tech Stack
+
 ### About My Github
 <p align="left">
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
@@ -11,6 +13,9 @@
   <br/> 
 </p>
 
+### BOJ
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qortmd7777)](https://solved.ac/qortmd7777)
 <!--
 **Walkers15/Walkers15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
