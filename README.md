@@ -1,4 +1,4 @@
-## 👋 Thanks For Comming!
+## 👋 Thanks For Coming!
 와주셔서 감사합니다! 여기까지 오신 김에 제 프로필도 보고 가세요💫
 ### 🚀 Tech Stack
 #### Language
