@@ -16,7 +16,7 @@
 ### 🐈‍⬛ About My Github
 <p align="left">
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walkers15&show_icons=true&hide=issues&line_height=24&include_all_commits=True" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Walkers15&show_icons=true&hide=issues&line_height=24" />
     </a></span>
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walkers15&layout=compact&langs_count=6&card_width=260" />
