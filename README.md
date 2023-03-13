@@ -1,5 +1,6 @@
 ## 👋 Thanks For Coming!  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWalkers15&count_bg=%2379C83D&title_bg=%23555555&icon=pinboard.svg&icon_color=%238FC851&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWalkers15&count_bg=%2379C83D&title_bg=%23555555&icon=pinboard.svg&icon_color=%238FC851&title=hits+%2823%2F03%2F13+%7E%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
 와주셔서 감사합니다! 여기까지 오신 김에 제 프로필도 보고 가세요💫
 ### 🚀 Tech Stack
 #### Language
